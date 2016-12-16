@@ -1,0 +1,26 @@
+{
+  "name": "simple-google-oauth",
+  "version": "1.0.0",
+  "description": "Simple functions for doing oauth with google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickycoders/simple-google-oauth.git"
+  },
+  "keywords": [
+    "google",
+    "oauth"
+  ],
+  "author": "Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trickycoders/simple-google-oauth/issues"
+  },
+  "homepage": "https://github.com/trickycoders/simple-google-oauth#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
